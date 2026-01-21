@@ -41,4 +41,4 @@ Updating the website
 --------------------
 
 - Push your latest changes to docs-miblab-data/main. This will automatically 
-build and deploy the docs on openmiblab.gitub.io/docs-miblab-data.
+build and deploy the docs on openmiblab.gitub.io/docs-miblab-data..
